@@ -2,7 +2,7 @@
 
 ## Candidate Details
 
-- **Name:** Param
+- **Name:** Param Vivek Ghia
 - **BITS ID:** 2026A8PS1050H
 - **Subdivision:** Avionics
 
